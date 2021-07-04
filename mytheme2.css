@@ -32,7 +32,7 @@ The 2 items above are not owned by me, They go to there respected owners
 	/*Background Img*/
 	#app-mount,
 	#app-mount .container-16j22k {
-		background-image: var(--pedro); 
+		background-image: var(--background-image); 
 		background-position: center; 
 		background-size: cover; 
 	}
