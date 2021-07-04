@@ -10,7 +10,7 @@
 
 /* Background Image */
 .da-appMount {
-	background: var(--pedro);
+	background: var(--background-image);
 }
 
 /* removing backgrounds */
