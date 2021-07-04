@@ -51,3 +51,30 @@
 	background-image: var(--transparency-5);
 }
 
+/* removes margin from top area and adds it to the nav buttons + discord logo */
+.typeWindows-1za-n7 {
+	height: 21px;
+    margin-top: 0px;
+}
+.flexCenter-3_1bcw {
+    margin-top: 3px;
+}
+/* removes a border under better discord at channels */
+.unread-1xRYoj {
+	display:none;
+}
+/* removes a margin bottom */
+.container-3baos1 {
+	margin-bottom: 0px;
+}
+.base-3dtUhz {
+    border-radius:0px;
+}
+
+/* fixes */
+.theme-dark {
+    --background-primary: none;
+    --background-secondary: none;
+    --background-tertiary: none;
+	--background-accent: none;
+}
