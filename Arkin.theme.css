@@ -1,0 +1,24 @@
+/**
+ * @name Arkin       
+ * @version ersão 1      
+ * @description cu <3  
+ * @author "o" (arkze).  
+ **/
+
+
+@import url('https://raw.githack.com/Arkyzee/BetterDiscordTheme/main/mytheme1.css');
+@import url('https://raw.githack.com/Arkyzee/BetterDiscordTheme/main/mytheme00.css');
+
+:root{
+    
+    
+    --activetext-colour: rgba(255, 0, 0, 0.280);
+
+    --primary1-colour: rgb(255, 0, 0);
+    --primary2-colour: rgba(255, 0, 0, 0.26);
+    --primary3-colour: rgba(0, 0, 0, 0.0);
+ 
+    --secondary1-colour:;
+    --secondary2-colour: rgba(255, 0, 0, 0.280);
+    --secondary3-colour: ;
+
